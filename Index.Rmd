@@ -1,5 +1,5 @@
 ---
-title: "Initial_webpage"
+title: "FUN!"
 author: "PFL"
 date: "2023-01-15"
 output: html_document
